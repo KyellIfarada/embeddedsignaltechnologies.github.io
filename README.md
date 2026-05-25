@@ -1,2 +1,2 @@
 # embeddedsignaltechnologies.github.io
-# View of Embedded Concepts and Projects
+ View of Embedded Concepts and Projects
